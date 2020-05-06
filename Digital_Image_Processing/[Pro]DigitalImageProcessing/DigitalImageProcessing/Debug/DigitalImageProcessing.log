@@ -1,0 +1,2 @@
+﻿  DigitalImageProcessing.cpp
+c:\users\jack ryan\source\repos\digitalimageprocessing\digitalimageprocessing\invert.h(3): fatal error C1083: Cannot open include file: 'opencv2/opencv.hpp': No such file or directory

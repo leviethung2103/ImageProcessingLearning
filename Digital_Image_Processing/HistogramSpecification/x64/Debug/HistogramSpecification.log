@@ -1,0 +1,11 @@
+﻿  main.cpp
+c:\users\jack ryan\source\repos\histogramspecification\histogramspecification\histogramspecification\histogram.h(77): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\jack ryan\source\repos\histogramspecification\histogramspecification\histogramspecification\histogram.h(120): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\jack ryan\source\repos\histogramspecification\histogramspecification\histogramspecification\histogram.h(165): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\jack ryan\source\repos\histogramspecification\histogramspecification\histogramspecification\histogram.h(198): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jack ryan\source\repos\histogramspecification\histogramspecification\histogramspecification\histogram.h(228): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\jack ryan\source\repos\histogramspecification\histogramspecification\histogramspecification\histogram.h(229): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\jack ryan\source\repos\histogramspecification\histogramspecification\histogramspecification\histogram.h(254): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\jack ryan\source\repos\histogramspecification\histogramspecification\histogramspecification\histogram.h(255): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  HistogramSpecification.vcxproj -> C:\Users\Jack Ryan\source\repos\HistogramSpecification\HistogramSpecification\x64\Debug\HistogramSpecification.exe
+  HistogramSpecification.vcxproj -> C:\Users\Jack Ryan\source\repos\HistogramSpecification\HistogramSpecification\x64\Debug\HistogramSpecification.pdb (Partial PDB)

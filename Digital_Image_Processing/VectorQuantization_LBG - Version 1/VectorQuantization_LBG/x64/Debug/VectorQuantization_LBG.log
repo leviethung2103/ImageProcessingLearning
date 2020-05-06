@@ -1,0 +1,11 @@
+﻿  VQ-LBG.cpp
+e:\project- github\digital-image-processing\vectorquantization_lbg - version 1\vectorquantization_lbg\vq-lbg.cpp(97): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+e:\project- github\digital-image-processing\vectorquantization_lbg - version 1\vectorquantization_lbg\vq-lbg.cpp(114): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+e:\project- github\digital-image-processing\vectorquantization_lbg - version 1\vectorquantization_lbg\vq-lbg.cpp(220): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+e:\project- github\digital-image-processing\vectorquantization_lbg - version 1\vectorquantization_lbg\vq-lbg.cpp(250): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  Compiling...
+  main.cpp
+  Generating Code...
+  VectorQuantization_LBG.vcxproj -> E:\PROJECT- GITHUB\Digital-Image-Processing\VectorQuantization_LBG - Version 1\x64\Debug\VectorQuantization_LBG.exe
+  VectorQuantization_LBG.vcxproj -> E:\PROJECT- GITHUB\Digital-Image-Processing\VectorQuantization_LBG - Version 1\x64\Debug\VectorQuantization_LBG.pdb (Partial PDB)

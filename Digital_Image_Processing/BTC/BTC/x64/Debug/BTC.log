@@ -1,0 +1,5 @@
+﻿  main.cpp
+e:\project- github\digital-image-processing\btc\btc\main.cpp(82): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\project- github\digital-image-processing\btc\btc\main.cpp(83): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  BTC.vcxproj -> E:\PROJECT- GITHUB\Digital-Image-Processing\BTC\x64\Debug\BTC.exe
+  BTC.vcxproj -> E:\PROJECT- GITHUB\Digital-Image-Processing\BTC\x64\Debug\BTC.pdb (Partial PDB)

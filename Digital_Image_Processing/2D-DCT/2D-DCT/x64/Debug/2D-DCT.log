@@ -1,0 +1,4 @@
+﻿  DCT.cpp
+c:\users\jack ryan\documents\visual studio 2015\projects\2d-dct\2d-dct\dct.cpp(84): warning C4244: '=': conversion from 'double' to 'uchar', possible loss of data
+  2D-DCT.vcxproj -> C:\Users\Jack Ryan\documents\visual studio 2015\Projects\2D-DCT\x64\Debug\2D-DCT.exe
+  2D-DCT.vcxproj -> C:\Users\Jack Ryan\documents\visual studio 2015\Projects\2D-DCT\x64\Debug\2D-DCT.pdb (Partial PDB)
